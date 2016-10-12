@@ -39,6 +39,27 @@
     - [28 Python2和3的区别](#28-python2和3的区别)
     - [29 super.__init__()](#29-super-init)
     - [30 range-and-xrange](#30-range-and-xrange)
+     字符串反转 
+ Python的特点
+ Python和c和Java的对比 
+ Python的内存管理
+ Python的装饰器内部实现原理 
+ Python的面向对象和Java面向对象的区别
+ Python面向对象的静态方法  
+ Python为啥是动态语言
+ 动态语言和静态语言的区别 
+ Python的数据结构 
+ Python的设计模式
+ 算法(冒泡,二叉树,堆排序等)
+ Python的线程
+ Python的进程
+ Python的线程池
+ Python的面向对象和c面向过程的区别
+ 为什么c没有面向对象依然可以封装函数
+ 爬虫
+ 多线程爬虫
+ cmdb
+ saltstack
 - [操作系统](#操作系统)
     - [1 select,poll和epoll](#1-selectpoll和epoll)
     - [2 调度算法](#2-调度算法)
