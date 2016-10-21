@@ -47,7 +47,7 @@
     - [Python的面向对象和Java面向对象的区别]
     - [Python面向对象的静态方法]  
     - [Python为啥是动态语言]
-    - [动态语言和静态语言的区别]
+    - [动态语言和静态语言的区别](#31-unstatic and static difference)
     - [Python的数据结构] 
     - [Python的设计模式]
     - [算法(冒泡,二叉树,堆排序等)]
@@ -698,6 +698,38 @@ What is the difference between range and xrange functions in Python 2.X?
  xrange is a sequence object that evaluates lazily.
 
 http://stackoverflow.com/questions/94935/what-is-the-difference-between-range-and-xrange-functions-in-python-2-x
+## 31 unstatic and static difference
+如何区分动态和静态语言？
+
+一：根据定义
+
+动态语言：程序在运行时可以改变其结构：新的函数可以被引进，已有的函数可以被删除等在结构上的变化。如：JavaScript、Ruby、Python、VBScript、php
+
+静态语言：程序在运行时无法改变其结构，新的函数不能被引用，已有函数不能被删除等在结构上的变化。如：C、C++、Java、C#。
+
+二：何时检查数据类型
+
+动态语言：在运行期间检查数据的类型。不会给变量提前声明类型，而是在赋值时得到数据类型，运行时一般不需要编译。
+
+静态语言：在运行前检查数据类型。在编写代码时，每个变量必须事先声明数据类型，一般运行前需要编译。
+
+三：主要用于做什么事情
+
+动态语言：主要用于开发较小的项目以及网页的编写。
+
+静态语言：实现复杂的业务逻辑、开发大型商业系统、以及那些生命周期很长的应用。
+
+四：优缺点
+
+动态语言：
+
+优点：方便阅读，不需要写非常多的类型相关的代码；
+
+缺点：不方便调试，命名不规范时会造成读不懂，不利于理解等。
+
+静态语言：
+
+优点：其结构非常规范，便于调试，方便类型安全；缺点：为此需要写更多的类型相关代码，导致不便于阅读、不清晰明了。
 
 # 操作系统
 
