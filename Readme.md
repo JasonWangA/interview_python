@@ -47,7 +47,7 @@
     - [Python的面向对象和Java面向对象的区别]
     - [Python面向对象的静态方法]  
     - [Python为啥是动态语言]
-    - [动态语言和静态语言的区别](#31-unstatic and static difference)
+    - [动态语言和静态语言的区别](#31-static-difference)
     - [Python的数据结构] 
     - [Python的设计模式]
     - [算法(冒泡,二叉树,堆排序等)]
@@ -698,7 +698,7 @@ What is the difference between range and xrange functions in Python 2.X?
  xrange is a sequence object that evaluates lazily.
 
 http://stackoverflow.com/questions/94935/what-is-the-difference-between-range-and-xrange-functions-in-python-2-x
-## 31 unstatic and static difference
+## 31 static difference
 如何区分动态和静态语言？
 
 一：根据定义
