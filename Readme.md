@@ -41,7 +41,7 @@
     - [30 range-and-xrange](#30-range-and-xrange)
     - [字符串反转 ]
     - [Python的特点]
-    - [Python和c和Java的对比] 
+    - [Python和c和Java的对比](#31-python和Java的区别 )
     - [Python的内存管理]
     - [Python的装饰器内部实现原理] 
     - [Python的面向对象和Java面向对象的区别]
@@ -730,7 +730,8 @@ http://stackoverflow.com/questions/94935/what-is-the-difference-between-range-an
 静态语言：
 
 优点：其结构非常规范，便于调试，方便类型安全；缺点：为此需要写更多的类型相关代码，导致不便于阅读、不清晰明了。
-
+## 31 python和Java的区别
+    http://gmingzhe.blog.51cto.com/810664/163615
 # 操作系统
 
 ## 1 select,poll和epoll
